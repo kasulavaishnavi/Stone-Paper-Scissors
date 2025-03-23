@@ -19,5 +19,6 @@ Features
 - User-friendly interface: Interactive buttons and clear game messages that show the results after each round.
 - Game reset option: Option to reset the game and start fresh, keeping track of cumulative scores throughout multiple rounds.
 
-![image](https://github.com/user-attachments/assets/b6e80910-177d-4f0a-a4f8-2d0124f9b3e2)
+![image](https://github.com/user-attachments/assets/7e3c3ee2-76e7-4824-ba73-5cf3e863e055)
+
   
