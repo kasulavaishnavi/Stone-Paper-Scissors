@@ -32,7 +32,7 @@ img{
     justify-content: center;
     align-items: center;
     gap: 3rem;
-    margin-top: 5rem;
+    margin-top: 4rem;
 }
 
 .choice:hover{
@@ -46,7 +46,7 @@ img{
     justify-content: center;
     align-items: center;
     font-size: 2rem;
-    margin-top: 3rem;
+    margin-top: 2rem;
     gap: 5rem;
 }
 #user-score,
@@ -55,7 +55,7 @@ img{
 }
 
 .msg-container{
-    margin-top: 5rem;
+    margin-top: 1rem;
 }
 
 #msg{
@@ -67,10 +67,19 @@ img{
     border-radius: 1rem;
 }
 
-@media (min-width: 500px) {
+@media (max-width: 500px) {
 h1{
     width: 100%;
+    font-size: larger;
 }
 
-
+img{
+    height: 70px;
+    width: 70px;
+    margin: 0px 10px;
+}
+.choices{
+    gap:5px;
+    margin: 20px;
+}
 }
