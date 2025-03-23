@@ -78,6 +78,12 @@ img{
     width: 70px;
     margin: 0px 10px;
 }
+.choice{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+
+}
 .choices{
     gap:5px;
 }
